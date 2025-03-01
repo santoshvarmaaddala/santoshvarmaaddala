@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @santoshvarmaaddala
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning python and reactjs
-- 💞️ I’m looking to collaborate on projects based on Python and Webdevelopment
+- 🌱 I’m currently learning python, java and js
+- 💞️ I’m looking to collaborate on projects based on Full Stack.
 - 📫 How to reach me : linkedin.com/in/santoshvarma-addala-3a6406255
                 email:- santoshvarma2166@gmail.com
 
